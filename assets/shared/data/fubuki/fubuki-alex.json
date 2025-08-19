@@ -1,0 +1,2913 @@
+{
+	"player1": "hans-meow",
+	"notes": [
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[12558.1395338837, 4, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[13081.3953488372, 4, 261.627906976744, "Extra Character Sing"],
+				[13604.6511627907, 6, 261.627906976744, "Extra Character Sing"],
+				[13953.488371093, 5, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[14476.7441860465, 5, 261.627906976744, "Extra Character Sing"],
+				[15000, 7, 261.627906976744, "Extra Character Sing"],
+				[15348.8372083023, 5, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[15872.0930232558, 5, 261.627906976744, "Extra Character Sing"],
+				[16395.3488372093, 4, 261.627906976744, "Extra Character Sing"],
+				[16744.1860455116, 7, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[17267.4418604651, 7, 261.627906976744, "Extra Character Sing"],
+				[17790.6976744186, 5, 261.627906976744, "Extra Character Sing"],
+				[18139.5348827209, 0, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[18662.7906976744, 0, 261.627906976744, "Extra Character Sing"],
+				[19186.0465116279, 2, 261.627906976744, "Extra Character Sing"],
+				[19534.8837199302, 1, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[20058.1395348837, 1, 261.627906976744, "Extra Character Sing"],
+				[20581.3953488372, 2, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[21279.0697674419, 0, 261.627906976744, "Extra Character Sing"],
+				[21627.9069767442, 2, 261.627906976744, "Extra Character Sing"],
+				[21976.7441860465, 1, 610.46511627907, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[22674.4186046512, 2, 959.302325581396, "Extra Character Sing"],
+				[23720.9302315581, 4, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[24244.1860465116, 4, 261.627906976744, "Extra Character Sing"],
+				[24767.4418604651, 7, 261.627906976744, "Extra Character Sing"],
+				[25116.2790687674, 6, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[25290.6976744186, 5, 87.2093023255814, "Extra Character Sing"],
+				[25465.1162790698, 7, 0, "Extra Character Sing"],
+				[25639.5348837209, 4, 261.627906976744, "Extra Character Sing"],
+				[25988.3720930232, 5, 0, "Extra Character Sing"],
+				[26162.7906976744, 7, 0, "Extra Character Sing"],
+				[26337.2093023256, 6, 0, "Extra Character Sing"],
+				[26511.6279059767, 7, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[27034.8837209302, 7, 261.627906976744, "Extra Character Sing"],
+				[27558.1395348837, 5, 261.627906976744, "Extra Character Sing"],
+				[27906.976743186, 6, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[28081.3953488372, 5, 0, "Extra Character Sing"],
+				[28255.8139534884, 7, 0, "Extra Character Sing"],
+				[28430.2325581395, 4, 0, "Extra Character Sing"],
+				[28779.0697674418, 5, 0, "Extra Character Sing"],
+				[28953.488372093, 4, 0, "Extra Character Sing"],
+				[29127.9069767442, 6, 0, "Extra Character Sing"],
+				[29302.3255803953, 1, 436.046511627907, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[29825.5813953488, 2, 436.046511627907, "Extra Character Sing"],
+				[30348.8372093023, 1, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[30697.6744186046, 3, 436.046511627907, "GF Sing"],
+				[31220.9302325581, 2, 348.837209302326, "GF Sing"],
+				[31744.1860465116, 3, 348.837209302326, "GF Sing"],
+				[32093.0232548139, 1, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[32267.4418604651, 1, 0, "Extra Character Sing"],
+				[32441.8604651163, 2, 261.627906976744, "Extra Character Sing"],
+				[32616.2790697674, 0, 87.2093023255814, "Extra Character Sing"],
+				[32965.1162790698, 2, 261.627906976744, "Extra Character Sing"],
+				[33139.5348837209, 0, 87.2093023255814, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[33488.3720930232, 1, 0, "GF Sing"],
+				[33662.7906976744, 1, 0, "GF Sing"],
+				[33837.2093023256, 2, 174.418604651163, "GF Sing"],
+				[34011.6279069767, 3, 0, "GF Sing"],
+				[34360.4651162791, 2, 0, "GF Sing"],
+				[34534.8837209302, 3, 261.627906976744, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[34883.7209302326, 4, 348.837209302326, "Extra Character Sing"],
+				[34883.7209302326, 0, 348.837209302326, "Duet"],
+				[35406.976744186, 4, 261.627906976744, "Extra Character Sing"],
+				[35406.976744186, 0, 261.627906976744, "Duet"],
+				[35755.8139534884, 7, 0, "Extra Character Sing"],
+				[35755.8139534884, 3, 0, "Duet"],
+				[35930.2325581395, 6, 0, "Extra Character Sing"],
+				[35930.2325581395, 2, 0, "Duet"],
+				[36104.6511627907, 4, 0, "Extra Character Sing"],
+				[36104.6511627907, 0, 0, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[36279.0697674419, 6, 261.627906976744, "Extra Character Sing"],
+				[36279.0697674419, 2, 261.627906976744, "Duet"],
+				[36453.488372093, 7, 87.2093023255814, "Extra Character Sing"],
+				[36453.488372093, 3, 87.2093023255814, "Duet"],
+				[36627.9069767442, 4, 0, "Extra Character Sing"],
+				[36627.9069767442, 0, 0, "Duet"],
+				[36802.3255813953, 5, 261.627906976744, "Extra Character Sing"],
+				[36802.3255813953, 1, 261.627906976744, "Duet"],
+				[37151.1627906977, 4, 0, "Extra Character Sing"],
+				[37151.1627906977, 0, 0, "Duet"],
+				[37325.5813953488, 6, 0, "Extra Character Sing"],
+				[37325.5813953488, 2, 0, "Duet"],
+				[37500, 5, 261.627906976744, "Extra Character Sing"],
+				[37500, 3, 0, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[37674.4186046512, 0, 261.627906976744, "Duet"],
+				[37848.8372093023, 6, 0, "Extra Character Sing"],
+				[37848.8372093023, 2, 0, "Duet"],
+				[38023.2558139535, 7, 0, "Extra Character Sing"],
+				[38023.2558139535, 3, 0, "Duet"],
+				[38197.6744186046, 4, 261.627906976744, "Extra Character Sing"],
+				[38197.6744186046, 0, 261.627906976744, "Duet"],
+				[38546.511627907, 5, 0, "Extra Character Sing"],
+				[38546.511627907, 1, 0, "Duet"],
+				[38720.9302325581, 4, 0, "Extra Character Sing"],
+				[38720.9302325581, 0, 0, "Duet"],
+				[38895.3488372093, 6, 0, "Extra Character Sing"],
+				[38895.3488372093, 2, 0, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[39069.7674418605, 5, 261.627906976744, "Extra Character Sing"],
+				[39069.7674418605, 1, 261.627906976744, "Duet"],
+				[39418.6046511628, 7, 261.627906976744, "Extra Character Sing"],
+				[39418.6046511628, 3, 261.627906976744, "Duet"],
+				[39767.4418604651, 6, 261.627906976744, "Extra Character Sing"],
+				[39767.4418604651, 2, 261.627906976744, "Duet"],
+				[40116.2790697674, 7, 0, "Extra Character Sing"],
+				[40116.2790697674, 3, 0, "Duet"],
+				[40290.6976744186, 4, 0, "Extra Character Sing"],
+				[40290.6976744186, 0, 0, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[40465.1162790698, 2, 436.046511627907, "Duet"],
+				[40988.3720930233, 1, 436.046511627907, "Duet"],
+				[41511.6279069767, 2, 436.046511627907, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[42034.8837209302, 3, 436.046511627907, "Duet"],
+				[42558.1395348837, 0, 261.627906976744, "Duet"],
+				[42906.9767441861, 3, 261.627906976744, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[43255.8139534884, 1, 784.883720930233, "GF Sing"],
+				[43779.0697674419, 0, 261.627906976744, "GF Sing"],
+				[44127.9069767442, 2, 0, "GF Sing"],
+				[44302.3255813954, 1, 261.627906976744, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[44651.1627906977, 3, 261.627906976744, "GF Sing"],
+				[45000, 0, 261.627906976744, "GF Sing"],
+				[45348.8372093023, 2, 261.627906976744, "GF Sing"],
+				[45697.6744186047, 0, 261.627906976744, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[47790.6976744186, 5, 0, "Extra Character Sing"],
+				[47965.1162790698, 4, 0, "Extra Character Sing"],
+				[48139.5348837209, 7, 0, "Extra Character Sing"],
+				[48313.9534883721, 6, 0, "Extra Character Sing"],
+				[48488.3720930233, 7, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[48837.2093023256, 4, 174.418604651163, "Extra Character Sing"],
+				[49186.0465116279, 6, 261.627906976744, "Extra Character Sing"],
+				[49534.8837209303, 5, 261.627906976744, "Extra Character Sing"],
+				[49883.7209302326, 4, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[50232.5581395349, 7, 0, "Extra Character Sing"],
+				[50406.9767441861, 5, 0, "Extra Character Sing"],
+				[50581.3953488372, 4, 0, "Extra Character Sing"],
+				[50755.8139534884, 7, 261.627906976744, "Extra Character Sing"],
+				[51104.6511627907, 5, 0, "Extra Character Sing"],
+				[51279.0697674419, 6, 0, "Extra Character Sing"],
+				[51453.488372093, 4, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[51627.9069767442, 5, 261.627906976744, "Extra Character Sing"],
+				[51976.7441860465, 7, 261.627906976744, "Extra Character Sing"],
+				[52325.5813953489, 4, 261.627906976744, "Extra Character Sing"],
+				[52500, 6, 87.2093023255814, "Extra Character Sing"],
+				[52674.4186046512, 5, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[53197.6744186047, 6, 0, "Extra Character Sing"],
+				[53372.0930232558, 7, 0, "Extra Character Sing"],
+				[53546.511627907, 5, 0, "Extra Character Sing"],
+				[53720.9302325582, 4, 0, "Extra Character Sing"],
+				[53895.3488372093, 6, 0, "Extra Character Sing"],
+				[54069.7674418605, 4, 0, "Extra Character Sing"],
+				[54244.1860465117, 5, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[54418.6046511628, 4, 261.627906976744, "Extra Character Sing"],
+				[54767.4418604652, 7, 261.627906976744, "Extra Character Sing"],
+				[55116.2790697675, 5, 261.627906976744, "Extra Character Sing"],
+				[55465.1162790698, 7, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[55813.9534883721, 6, 0, "Extra Character Sing"],
+				[55988.3720930233, 4, 0, "Extra Character Sing"],
+				[56162.7906976745, 6, 0, "Extra Character Sing"],
+				[56337.2093023256, 5, 174.418604651163, "Extra Character Sing"],
+				[56686.0465116279, 5, 0, "Extra Character Sing"],
+				[56860.4651162791, 6, 0, "Extra Character Sing"],
+				[56947.6744186047, 7, 0, "Extra Character Sing"],
+				[57034.8837209303, 4, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[57209.3023255814, 5, 0, "Extra Character Sing"],
+				[57383.7209302326, 6, 0, "Extra Character Sing"],
+				[57558.1395348838, 5, 0, "Extra Character Sing"],
+				[57732.5581395349, 4, 0, "Extra Character Sing"],
+				[57906.9767441861, 7, 0, "Extra Character Sing"],
+				[58081.3953488372, 6, 261.627906976744, "Extra Character Sing"],
+				[58430.2325581396, 4, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[58953.488372093, 1, 0, "Extra Character Sing"],
+				[59127.9069767442, 0, 0, "Extra Character Sing"],
+				[59302.3255813954, 3, 0, "Extra Character Sing"],
+				[59476.7441860465, 2, 0, "Extra Character Sing"],
+				[59651.1627906977, 3, 0, "Extra Character Sing"],
+				[59825.5813953489, 3, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[60174.4186046512, 0, 0, "Extra Character Sing"],
+				[60348.8372093024, 3, 0, "Extra Character Sing"],
+				[60523.2558139535, 1, 0, "Extra Character Sing"],
+				[60697.6744186047, 0, 0, "Extra Character Sing"],
+				[60872.0930232559, 2, 261.627906976744, "Extra Character Sing"],
+				[61220.9302325582, 1, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[61395.3488372093, 3, 0, "Extra Character Sing"],
+				[61569.7674418605, 1, 0, "Extra Character Sing"],
+				[61744.1860465117, 2, 0, "Extra Character Sing"],
+				[61918.6046511628, 0, 0, "Extra Character Sing"],
+				[62093.023255814, 3, 0, "Extra Character Sing"],
+				[62267.4418604652, 1, 0, "Extra Character Sing"],
+				[62441.8604651163, 2, 0, "Extra Character Sing"],
+				[62616.2790697675, 3, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[62965.1162790698, 0, 0, "Extra Character Sing"],
+				[63139.534883721, 1, 0, "Extra Character Sing"],
+				[63313.9534883721, 3, 0, "Extra Character Sing"],
+				[63488.3720930233, 1, 0, "Extra Character Sing"],
+				[63662.7906976745, 3, 0, "Extra Character Sing"],
+				[63837.2093023256, 0, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[64360.4651162791, 2, 0, "Extra Character Sing"],
+				[64534.8837209303, 3, 0, "Extra Character Sing"],
+				[64709.3023255814, 1, 0, "Extra Character Sing"],
+				[64883.7209302326, 0, 0, "Extra Character Sing"],
+				[65058.1395348838, 2, 0, "Extra Character Sing"],
+				[65232.5581395349, 0, 0, "Extra Character Sing"],
+				[65406.9767441861, 1, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"gfSection": true,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[65581.3953488373, 0, 0, "Extra Character Sing"],
+				[65755.8139534884, 2, 0, "Extra Character Sing"],
+				[65930.2325581396, 3, 0, "Extra Character Sing"],
+				[66104.6511627907, 2, 0, "Extra Character Sing"],
+				[66279.0697674419, 0, 0, "Extra Character Sing"],
+				[66453.4883720931, 2, 0, "Extra Character Sing"],
+				[66627.9069767442, 3, 0, "Extra Character Sing"],
+				[66802.3255813954, 2, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"gfSection": true,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[66976.7441860466, 1, 0, "Extra Character Sing"],
+				[67151.1627906977, 2, 0, "Extra Character Sing"],
+				[67325.5813953489, 0, 0, "Extra Character Sing"],
+				[67500, 3, 218.023255813954, "Extra Character Sing"],
+				[67848.8372093024, 3, 0, "Extra Character Sing"],
+				[68023.2558139535, 1, 0, "Extra Character Sing"],
+				[68197.6744186047, 3, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"gfSection": true,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[68372.0930232559, 2, 0, "Extra Character Sing"],
+				[68546.511627907, 0, 0, "Extra Character Sing"],
+				[68720.9302325582, 1, 0, "Extra Character Sing"],
+				[68895.3488372093, 3, 0, "Extra Character Sing"],
+				[69069.7674418605, 1, 0, "Extra Character Sing"],
+				[69244.1860465117, 3, 0, "Extra Character Sing"],
+				[69418.6046511628, 0, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"gfSection": true,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[69767.4418604652, 6, 261.627906976744, "Extra Character Sing"],
+				[69767.4418604652, 2, 261.627906976744, "Duet"],
+				[70116.2790697675, 7, 261.627906976744, "Extra Character Sing"],
+				[70116.2790697675, 3, 261.627906976744, "Duet"],
+				[70465.1162790698, 4, 261.627906976744, "Extra Character Sing"],
+				[70465.1162790698, 0, 261.627906976744, "Duet"],
+				[70813.9534883721, 5, 261.627906976744, "Extra Character Sing"],
+				[70813.9534883721, 1, 261.627906976744, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[71162.7906976745, 6, 0, "Extra Character Sing"],
+				[71162.7906976745, 0, 261.627906976744, "Duet"],
+				[71337.2093023256, 5, 0, "Extra Character Sing"],
+				[71511.6279069768, 7, 0, "Extra Character Sing"],
+				[71511.6279069768, 1, 261.627906976744, "Duet"],
+				[71686.0465116279, 4, 261.627906976744, "Extra Character Sing"],
+				[71860.4651162791, 2, 261.627906976744, "Duet"],
+				[72034.8837209303, 5, 0, "Extra Character Sing"],
+				[72209.3023255814, 7, 0, "Extra Character Sing"],
+				[72209.3023255814, 1, 261.627906976744, "Duet"],
+				[72383.7209302326, 4, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[72558.1395348838, 6, 0, "Extra Character Sing"],
+				[72558.1395348838, 3, 0, "Duet"],
+				[72645.3488372093, 2, 0, "Duet"],
+				[72732.5581395349, 5, 0, "Extra Character Sing"],
+				[72732.5581395349, 0, 0, "Duet"],
+				[72819.7674418605, 1, 0, "Duet"],
+				[72906.9767441861, 6, 0, "Extra Character Sing"],
+				[72906.9767441861, 2, 0, "Duet"],
+				[72994.1860465117, 1, 0, "Duet"],
+				[73081.3953488372, 5, 0, "Extra Character Sing"],
+				[73081.3953488372, 3, 0, "Duet"],
+				[73168.6046511628, 2, 0, "Duet"],
+				[73255.8139534884, 7, 0, "Extra Character Sing"],
+				[73255.8139534884, 0, 0, "Duet"],
+				[73430.2325581396, 4, 0, "Extra Character Sing"],
+				[73430.2325581396, 2, 0, "Duet"],
+				[73604.6511627907, 7, 0, "Extra Character Sing"],
+				[73604.6511627907, 1, 0, "Duet"],
+				[73779.0697674419, 4, 0, "Extra Character Sing"],
+				[73779.0697674419, 3, 0, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[73953.4883720931, 7, 0, "Extra Character Sing"],
+				[73953.4883720931, 2, 0, "Duet"],
+				[74127.9069767442, 5, 0, "Extra Character Sing"],
+				[74127.9069767442, 3, 0, "Duet"],
+				[74302.3255813954, 7, 0, "Extra Character Sing"],
+				[74302.3255813954, 0, 0, "Duet"],
+				[74476.7441860465, 5, 0, "Extra Character Sing"],
+				[74476.7441860465, 1, 0, "Duet"],
+				[74651.1627906977, 6, 0, "Extra Character Sing"],
+				[74651.1627906977, 3, 261.627906976744, "Duet"],
+				[74825.5813953489, 7, 0, "Extra Character Sing"],
+				[75000, 5, 0, "Extra Character Sing"],
+				[75000, 1, 261.627906976744, "Duet"],
+				[75174.4186046512, 4, 0, "Extra Character Sing"],
+				[75348.8372083024, 6, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[75348.8372093023, 2, 261.627906976744, "Duet"],
+				[75697.6744186047, 3, 0, "Duet"],
+				[75697.6744186047, 7, 0, "Extra Character Sing"],
+				[75872.0930232558, 5, 0, "Extra Character Sing"],
+				[75872.0930232558, 1, 0, "Duet"],
+				[76046.511627907, 6, 261.627906976744, "Extra Character Sing"],
+				[76046.511627907, 2, 261.627906976744, "Duet"],
+				[76395.3488372093, 4, 0, "Extra Character Sing"],
+				[76395.3488372093, 0, 0, "Duet"],
+				[76569.7674418605, 2, 174.418604651163, "Duet"],
+				[76569.7674418605, 6, 174.418604651163, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[76918.6046511628, 7, 0, "Extra Character Sing"],
+				[76918.6046511628, 3, 0, "Duet"],
+				[77005.8139534884, 5, 0, "Extra Character Sing"],
+				[77005.8139534884, 1, 0, "Duet"],
+				[77093.023255814, 4, 0, "Extra Character Sing"],
+				[77093.023255814, 0, 0, "Duet"],
+				[77267.4418604651, 5, 0, "Extra Character Sing"],
+				[77267.4418604651, 1, 0, "Duet"],
+				[77441.8604651163, 7, 0, "Extra Character Sing"],
+				[77441.8604651163, 3, 0, "Duet"],
+				[77616.2790697675, 5, 0, "Extra Character Sing"],
+				[77616.2790697675, 1, 0, "Duet"],
+				[77790.6976744186, 6, 0, "Extra Character Sing"],
+				[77790.6976744186, 2, 0, "Duet"],
+				[77965.1162790698, 5, 0, "Extra Character Sing"],
+				[77965.1162790698, 1, 0, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[78313.9534883721, 4, 0, "Extra Character Sing"],
+				[78313.9534883721, 0, 0, "Duet"],
+				[78488.3720930233, 6, 0, "Extra Character Sing"],
+				[78488.3720930233, 2, 0, "Duet"],
+				[78662.7906976744, 7, 0, "Extra Character Sing"],
+				[78662.7906976744, 3, 0, "Duet"],
+				[78837.2093023256, 5, 0, "Extra Character Sing"],
+				[78837.2093023256, 1, 0, "Duet"],
+				[79011.6279069768, 7, 0, "Extra Character Sing"],
+				[79011.6279069768, 3, 0, "Duet"],
+				[79186.0465116279, 5, 0, "Extra Character Sing"],
+				[79186.0465116279, 1, 0, "Duet"],
+				[79360.4651162791, 6, 0, "Extra Character Sing"],
+				[79360.4651162791, 2, 0, "Duet"],
+				[79534.8837199303, 4, 87.2093023255814, "Extra Character Sing"],
+				[79534.8837199303, 0, 87.2093023255814, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[79709.3023255814, 5, 87.2093023255814, "Extra Character Sing"],
+				[79709.3023255814, 1, 87.2093023255814, "Duet"],
+				[79883.7209302326, 7, 87.2093023255814, "Extra Character Sing"],
+				[79883.7209302326, 3, 87.2093023255814, "Duet"],
+				[80058.1395348837, 6, 87.2093023255814, "Extra Character Sing"],
+				[80058.1395348837, 2, 87.2093023255814, "Duet"],
+				[80232.5581395349, 5, 87.2093023255814, "Extra Character Sing"],
+				[80232.5581395349, 1, 87.2093023255814, "Duet"],
+				[80406.9767441861, 6, 87.2093023255814, "Extra Character Sing"],
+				[80406.9767441861, 2, 87.2093023255814, "Duet"],
+				[80581.3953488372, 4, 87.2093023255814, "Extra Character Sing"],
+				[80581.3953488372, 0, 87.2093023255814, "Duet"],
+				[80755.8139534884, 6, 87.2093023255814, "Extra Character Sing"],
+				[80755.8139534884, 2, 87.2093023255814, "Duet"],
+				[80930.2325571395, 7, 1133.72093023256, "Extra Character Sing"],
+				[80930.2325571395, 3, 261.627906976744, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[81279.0697674419, 5, 784.883720930233, "Extra Character Sing"],
+				[81279.0697674419, 0, 261.627906976744, "Extra Character Sing"],
+				[81627.9069767442, 2, 0, "Extra Character Sing"],
+				[81802.3255813954, 3, 261.627906976744, "Extra Character Sing"],
+				[82151.1627906977, 1, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[82500, 0, 261.627906976744, "Extra Character Sing"],
+				[82848.8372093023, 3, 261.627906976744, "Extra Character Sing"],
+				[83197.6744186047, 1, 261.627906976744, "Extra Character Sing"],
+				[83546.511627907, 2, 436.046511627907, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[84069.7674418605, 0, 959.302325581396, "Extra Character Sing"],
+				[85116.2790687674, 3, 1308.13953488372, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[86511.6279059767, 1, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[86686.0465116279, 2, 87.2093023255814, "Extra Character Sing"],
+				[86860.4651162791, 0, 261.627906976744, "Extra Character Sing"],
+				[87209.3023255814, 2, 261.627906976744, "Extra Character Sing"],
+				[87383.7209302326, 1, 87.2093023255814, "Extra Character Sing"],
+				[87558.1395348837, 3, 261.627906976744, "Extra Character Sing"],
+				[87906.976743186, 1, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[88081.3953488372, 0, 87.2093023255814, "Extra Character Sing"],
+				[88255.8139534884, 2, 261.627906976744, "Extra Character Sing"],
+				[88604.6511627907, 3, 261.627906976744, "Extra Character Sing"],
+				[88953.488372093, 0, 261.627906976744, "Extra Character Sing"],
+				[89302.3255803953, 2, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[89389.5348837209, 1, 0, "Extra Character Sing"],
+				[89476.7441860465, 2, 0, "Extra Character Sing"],
+				[89563.9534883721, 3, 174.418604651163, "Extra Character Sing"],
+				[89825.5813953488, 1, 174.418604651163, "Extra Character Sing"],
+				[90087.2093023256, 0, 174.418604651163, "Extra Character Sing"],
+				[90348.8372093023, 2, 174.418604651163, "Extra Character Sing"],
+				[90610.4651162791, 1, 174.418604651163, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[90872.0930232558, 3, 436.046511627907, "Extra Character Sing"],
+				[91395.3488372093, 0, 610.46511627907, "Extra Character Sing"],
+				[92093.0232548139, 6, 0, "Extra Character Sing"],
+				[92093.0232548139, 7, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[92267.4418604651, 4, 0, "Extra Character Sing"],
+				[92441.8604651162, 5, 0, "Extra Character Sing"],
+				[92441.8604651162, 7, 0, "Extra Character Sing"],
+				[92616.2790697674, 4, 0, "Extra Character Sing"],
+				[92790.6976744186, 5, 0, "Extra Character Sing"],
+				[92790.6976744186, 6, 0, "Extra Character Sing"],
+				[92965.1162790697, 4, 0, "Extra Character Sing"],
+				[93139.5348837209, 6, 0, "Extra Character Sing"],
+				[93139.5348837209, 7, 0, "Extra Character Sing"],
+				[93313.9534883721, 4, 0, "Extra Character Sing"],
+				[93488.3720920232, 5, 0, "Extra Character Sing"],
+				[93488.3720920232, 6, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[93662.7906976744, 7, 0, "Extra Character Sing"],
+				[93837.2093023255, 4, 0, "Extra Character Sing"],
+				[93837.2093023255, 5, 0, "Extra Character Sing"],
+				[94011.6279069767, 7, 0, "Extra Character Sing"],
+				[94186.0465116279, 4, 0, "Extra Character Sing"],
+				[94186.0465116279, 5, 0, "Extra Character Sing"],
+				[94360.465116279, 6, 0, "Extra Character Sing"],
+				[94534.8837209302, 5, 0, "Extra Character Sing"],
+				[94534.8837209302, 7, 0, "Extra Character Sing"],
+				[94709.3023255814, 4, 0, "Extra Character Sing"],
+				[94883.7209292325, 2, 0, "Extra Character Sing"],
+				[94883.7209292325, 3, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[95058.1395348837, 0, 0, "Extra Character Sing"],
+				[95232.5581395349, 1, 0, "Extra Character Sing"],
+				[95232.5581395349, 3, 0, "Extra Character Sing"],
+				[95406.976744186, 0, 0, "Extra Character Sing"],
+				[95581.3953488372, 1, 0, "Extra Character Sing"],
+				[95581.3953488372, 2, 0, "Extra Character Sing"],
+				[95755.8139534884, 0, 0, "Extra Character Sing"],
+				[95930.2325581395, 2, 0, "Extra Character Sing"],
+				[95930.2325581395, 3, 0, "Extra Character Sing"],
+				[96104.6511627907, 0, 0, "Extra Character Sing"],
+				[96279.0697664418, 1, 0, "Extra Character Sing"],
+				[96279.0697664418, 2, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[96453.488372093, 3, 0, "Extra Character Sing"],
+				[96627.9069767442, 0, 0, "Extra Character Sing"],
+				[96627.9069767442, 1, 0, "Extra Character Sing"],
+				[96802.3255813953, 2, 0, "Extra Character Sing"],
+				[96976.7441860465, 1, 0, "Extra Character Sing"],
+				[96976.7441860465, 3, 0, "Extra Character Sing"],
+				[97151.1627906976, 0, 0, "Extra Character Sing"],
+				[97325.5813953488, 2, 0, "Extra Character Sing"],
+				[97325.5813953488, 3, 0, "Extra Character Sing"],
+				[97500, 0, 0, "Extra Character Sing"],
+				[97674.4186036511, 6, 0, "Extra Character Sing"],
+				[97674.4186036511, 7, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[97848.8372093023, 4, 0, "Extra Character Sing"],
+				[98023.2558139535, 5, 0, "Extra Character Sing"],
+				[98023.2558139535, 7, 0, "Extra Character Sing"],
+				[98197.6744186046, 4, 0, "Extra Character Sing"],
+				[98372.0930232558, 5, 0, "Extra Character Sing"],
+				[98372.0930232558, 6, 0, "Extra Character Sing"],
+				[98546.5116279069, 4, 0, "Extra Character Sing"],
+				[98720.9302325581, 6, 0, "Extra Character Sing"],
+				[98720.9302325581, 7, 0, "Extra Character Sing"],
+				[98895.3488372093, 5, 0, "Extra Character Sing"],
+				[99069.7674408604, 4, 0, "Extra Character Sing"],
+				[99069.7674408604, 6, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[99244.1860465116, 5, 0, "Extra Character Sing"],
+				[99418.6046511627, 6, 0, "Extra Character Sing"],
+				[99418.6046511627, 7, 0, "Extra Character Sing"],
+				[99593.0232558139, 4, 0, "Extra Character Sing"],
+				[99767.4418604651, 5, 0, "Extra Character Sing"],
+				[99767.4418604651, 6, 0, "Extra Character Sing"],
+				[99941.8604651162, 7, 0, "Extra Character Sing"],
+				[100116.279069767, 5, 0, "Extra Character Sing"],
+				[100116.279069767, 6, 0, "Extra Character Sing"],
+				[100290.697674419, 4, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[100465.11627907, 2, 0, "Extra Character Sing"],
+				[100465.11627907, 3, 0, "Extra Character Sing"],
+				[100639.534883721, 0, 0, "Extra Character Sing"],
+				[100813.953488372, 1, 0, "Extra Character Sing"],
+				[100813.953488372, 3, 0, "Extra Character Sing"],
+				[100988.372093023, 0, 0, "Extra Character Sing"],
+				[101162.790697674, 1, 0, "Extra Character Sing"],
+				[101162.790697674, 2, 0, "Extra Character Sing"],
+				[101337.209302326, 2, 0, "Extra Character Sing"],
+				[101511.627906977, 0, 0, "Extra Character Sing"],
+				[101511.627906977, 1, 0, "Extra Character Sing"],
+				[101686.046511628, 2, 0, "Extra Character Sing"],
+				[101860.465115279, 1, 0, "Extra Character Sing"],
+				[101860.465115279, 3, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[102034.88372093, 0, 0, "Extra Character Sing"],
+				[102209.302325581, 1, 0, "Extra Character Sing"],
+				[102209.302325581, 3, 0, "Extra Character Sing"],
+				[102383.720930232, 2, 0, "Extra Character Sing"],
+				[102558.139534884, 0, 0, "Extra Character Sing"],
+				[102558.139534884, 1, 0, "Extra Character Sing"],
+				[102732.558139535, 3, 0, "Extra Character Sing"],
+				[102906.976744186, 1, 0, "Extra Character Sing"],
+				[102906.976744186, 3, 261.627906976744, "Extra Character Sing"],
+				[103255.813952488, 4, 0, "Extra Character Sing"],
+				[103255.813952488, 5, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[103430.23255814, 7, 0, "Extra Character Sing"],
+				[103604.651162791, 4, 0, "Extra Character Sing"],
+				[103604.651162791, 6, 0, "Extra Character Sing"],
+				[103779.069767442, 7, 0, "Extra Character Sing"],
+				[103953.488372093, 5, 0, "Extra Character Sing"],
+				[103953.488372093, 6, 0, "Extra Character Sing"],
+				[104127.906976744, 7, 0, "Extra Character Sing"],
+				[104302.325581395, 4, 0, "Extra Character Sing"],
+				[104302.325581395, 5, 0, "Extra Character Sing"],
+				[104476.744186046, 7, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[104651.162790698, 5, 0, "Extra Character Sing"],
+				[104651.162790698, 6, 0, "Extra Character Sing"],
+				[104825.581395349, 4, 0, "Extra Character Sing"],
+				[104912.790697674, 5, 0, "Extra Character Sing"],
+				[105000, 6, 0, "Extra Character Sing"],
+				[105000, 7, 0, "Extra Character Sing"],
+				[105087.209302326, 5, 0, "Extra Character Sing"],
+				[105174.418604651, 4, 0, "Extra Character Sing"],
+				[105261.627906977, 6, 0, "Extra Character Sing"],
+				[105348.837209302, 5, 0, "Extra Character Sing"],
+				[105348.837209302, 7, 0, "Extra Character Sing"],
+				[105523.255813953, 4, 0, "Extra Character Sing"],
+				[105697.674418605, 5, 0, "Extra Character Sing"],
+				[105697.674418605, 7, 0, "Extra Character Sing"],
+				[105872.093023256, 6, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[106046.511627907, 0, 0, "Extra Character Sing"],
+				[106046.511627907, 1, 0, "Extra Character Sing"],
+				[106133.720930232, 3, 0, "Extra Character Sing"],
+				[106220.930232558, 2, 0, "Extra Character Sing"],
+				[106308.139534884, 0, 0, "Extra Character Sing"],
+				[106395.348837209, 1, 0, "Extra Character Sing"],
+				[106395.348837209, 2, 0, "Extra Character Sing"],
+				[106482.558139535, 3, 0, "Extra Character Sing"],
+				[106569.76744186, 1, 0, "Extra Character Sing"],
+				[106656.976744186, 0, 0, "Extra Character Sing"],
+				[106744.186046512, 2, 0, "Extra Character Sing"],
+				[106744.186046512, 3, 0, "Extra Character Sing"],
+				[106831.395348837, 1, 0, "Extra Character Sing"],
+				[106918.604651163, 0, 0, "Extra Character Sing"],
+				[107005.813953488, 2, 0, "Extra Character Sing"],
+				[107093.023255814, 1, 0, "Extra Character Sing"],
+				[107093.023255814, 3, 0, "Extra Character Sing"],
+				[107267.441860465, 0, 0, "Extra Character Sing"],
+				[107441.860464116, 1, 0, "Extra Character Sing"],
+				[107441.860464116, 2, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[107616.279069767, 3, 0, "Extra Character Sing"],
+				[107790.697674419, 0, 0, "Extra Character Sing"],
+				[107790.697674419, 1, 0, "Extra Character Sing"],
+				[107965.11627907, 3, 0, "Extra Character Sing"],
+				[108139.534883721, 1, 0, "Extra Character Sing"],
+				[108139.534883721, 2, 0, "Extra Character Sing"],
+				[108313.953488372, 0, 87.2093023255814, "Extra Character Sing"],
+				[108488.372093023, 1, 87.2093023255814, "Extra Character Sing"],
+				[108488.372093023, 3, 0, "Extra Character Sing"],
+				[108662.790697674, 0, 87.2093023255814, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[108837.209302326, 6, 0, "Extra Character Sing"],
+				[108837.209302326, 7, 0, "Extra Character Sing"],
+				[109011.627906977, 4, 0, "Extra Character Sing"],
+				[109186.046511628, 5, 0, "Extra Character Sing"],
+				[109186.046511628, 7, 0, "Extra Character Sing"],
+				[109360.465116279, 4, 0, "Extra Character Sing"],
+				[109534.88372093, 5, 0, "Extra Character Sing"],
+				[109534.88372093, 6, 0, "Extra Character Sing"],
+				[109709.302325581, 4, 0, "Extra Character Sing"],
+				[109883.720930233, 6, 0, "Extra Character Sing"],
+				[109883.720930233, 7, 0, "Extra Character Sing"],
+				[110058.139534884, 5, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[110232.558139535, 4, 0, "Extra Character Sing"],
+				[110232.558139535, 6, 0, "Extra Character Sing"],
+				[110406.976744186, 5, 0, "Extra Character Sing"],
+				[110581.395348837, 6, 0, "Extra Character Sing"],
+				[110581.395348837, 7, 0, "Extra Character Sing"],
+				[110755.813953488, 4, 0, "Extra Character Sing"],
+				[110755.813953488, 3, 261.627906976744, "Duo Character Sing"],
+				[110930.232558139, 5, 0, "Extra Character Sing"],
+				[110930.232558139, 6, 0, "Extra Character Sing"],
+				[111104.651162791, 7, 0, "Extra Character Sing"],
+				[111104.651162791, 1, 0, "Duo Character Sing"],
+				[111279.069767442, 5, 0, "Extra Character Sing"],
+				[111279.069767442, 6, 0, "Extra Character Sing"],
+				[111279.069767442, 0, 0, "Duo Character Sing"],
+				[111279.069767442, 2, 261.627906976744, "Duo Character Sing"],
+				[111453.488372093, 4, 0, "Extra Character Sing"],
+				[111627.906975744, 1, 0, "Extra Character Sing"],
+				[111627.906975744, 3, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[111976.744186046, 0, 0, "Extra Character Sing"],
+				[111976.744186046, 1, 0, "Extra Character Sing"],
+				[112151.162790698, 3, 0, "Extra Character Sing"],
+				[112325.581395349, 1, 0, "Extra Character Sing"],
+				[112325.581395349, 2, 610.46511627907, "Extra Character Sing"],
+				[113023.255812953, 0, 1308.13953488372, "Extra Character Sing"],
+				[113023.255812953, 1, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[113720.930232558, 3, 610.46511627907, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[114418.604651163, 7, 0, "Extra Character Sing"],
+				[114593.023255814, 5, 0, "Extra Character Sing"],
+				[114767.441860465, 7, 0, "Extra Character Sing"],
+				[114941.860465116, 6, 0, "Extra Character Sing"],
+				[115116.279069767, 4, 0, "Extra Character Sing"],
+				[115290.697674419, 6, 0, "Extra Character Sing"],
+				[115465.11627907, 7, 0, "Extra Character Sing"],
+				[115639.534883721, 6, 0, "Extra Character Sing"],
+				[115813.953487372, 4, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[115988.372093023, 7, 0, "Extra Character Sing"],
+				[116162.790697674, 4, 0, "Extra Character Sing"],
+				[116337.209302325, 5, 0, "Extra Character Sing"],
+				[116511.627906977, 4, 0, "Extra Character Sing"],
+				[116686.046511628, 6, 0, "Extra Character Sing"],
+				[116860.465116279, 5, 0, "Extra Character Sing"],
+				[117034.88372093, 7, 0, "Extra Character Sing"],
+				[117209.302324581, 5, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[117383.720930232, 6, 0, "Extra Character Sing"],
+				[117558.139534884, 5, 0, "Extra Character Sing"],
+				[117645.348837209, 4, 0, "Extra Character Sing"],
+				[117732.558139535, 7, 0, "Extra Character Sing"],
+				[117906.976744186, 5, 0, "Extra Character Sing"],
+				[118081.395348837, 6, 0, "Extra Character Sing"],
+				[118255.813953488, 4, 0, "Extra Character Sing"],
+				[118343.023255814, 6, 0, "Extra Character Sing"],
+				[118430.232558139, 5, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[118604.651162791, 7, 0, "Extra Character Sing"],
+				[118779.069767442, 6, 0, "Extra Character Sing"],
+				[118953.488372093, 7, 0, "Extra Character Sing"],
+				[119127.906976744, 5, 0, "Extra Character Sing"],
+				[119302.325581395, 6, 0, "Extra Character Sing"],
+				[119476.744186046, 4, 0, "Extra Character Sing"],
+				[119651.162790698, 3, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[120000, 0, 0, "Extra Character Sing"],
+				[120087.209302325, 2, 0, "Extra Character Sing"],
+				[120174.418604651, 1, 0, "Extra Character Sing"],
+				[120348.837209302, 2, 0, "GF Sing"],
+				[120436.046511628, 3, 0, "GF Sing"],
+				[120523.255813953, 1, 0, "GF Sing"],
+				[120697.674418605, 0, 0, "Extra Character Sing"],
+				[120784.88372093, 2, 0, "Extra Character Sing"],
+				[120872.093023256, 1, 0, "Extra Character Sing"],
+				[121046.511627907, 2, 0, "GF Sing"],
+				[121133.720930232, 3, 0, "GF Sing"],
+				[121220.930232558, 0, 0, "GF Sing"],
+				[121395.348836209, 2, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[121482.558139535, 1, 0, "Extra Character Sing"],
+				[121569.76744186, 3, 0, "Extra Character Sing"],
+				[121744.186046512, 1, 0, "GF Sing"],
+				[121831.395348837, 0, 0, "GF Sing"],
+				[121918.604651163, 2, 0, "GF Sing"],
+				[122093.023255814, 3, 0, "Extra Character Sing"],
+				[122180.232558139, 1, 0, "Extra Character Sing"],
+				[122267.441860465, 0, 0, "Extra Character Sing"],
+				[122441.860465116, 2, 0, "GF Sing"],
+				[122529.069767442, 3, 0, "GF Sing"],
+				[122616.279069767, 0, 0, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[122790.697674418, 3, 0, "GF Sing"],
+				[122965.11627907, 1, 0, "Extra Character Sing"],
+				[123139.534883721, 2, 0, "GF Sing"],
+				[123313.953488372, 0, 0, "Extra Character Sing"],
+				[123488.372093023, 3, 0, "GF Sing"],
+				[123662.790697674, 2, 0, "Extra Character Sing"],
+				[123837.209302325, 0, 0, "GF Sing"],
+				[124011.627906977, 3, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[124186.046511628, 1, 0, "GF Sing"],
+				[124360.465116279, 2, 0, "Extra Character Sing"],
+				[124534.88372093, 0, 0, "GF Sing"],
+				[124709.302325581, 1, 0, "Extra Character Sing"],
+				[124883.720930232, 3, 0, "GF Sing"],
+				[125058.139534884, 0, 0, "Extra Character Sing"],
+				[125232.558139535, 1, 261.627906976744, "GF Sing"],
+				[125232.558139535, 2, 261.627906976744, "Duo Character Sing"],
+				[125581.395347837, 7, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[125930.232558139, 4, 0, "Extra Character Sing"],
+				[125930.232558139, 5, 261.627906976744, "Extra Character Sing"],
+				[126279.069767442, 7, 0, "Extra Character Sing"],
+				[126453.488372093, 4, 0, "Extra Character Sing"],
+				[126453.488372093, 5, 261.627906976744, "Extra Character Sing"],
+				[126802.325581395, 6, 0, "Extra Character Sing"],
+				[126976.744185046, 4, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[127325.581395349, 5, 0, "Extra Character Sing"],
+				[127325.581395349, 6, 0, "Extra Character Sing"],
+				[127500, 7, 261.627906976744, "Extra Character Sing"],
+				[127848.837209302, 4, 0, "Extra Character Sing"],
+				[127848.837209302, 5, 0, "Extra Character Sing"],
+				[128023.255813953, 6, 0, "Extra Character Sing"],
+				[128197.674418605, 5, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[128372.093023256, 3, 261.627906976744, "Extra Character Sing"],
+				[128720.930232558, 0, 0, "Extra Character Sing"],
+				[128720.930232558, 1, 261.627906976744, "Extra Character Sing"],
+				[129069.76744186, 3, 0, "Extra Character Sing"],
+				[129244.186046512, 0, 0, "Extra Character Sing"],
+				[129244.186046512, 1, 261.627906976744, "Extra Character Sing"],
+				[129593.023255814, 2, 0, "Extra Character Sing"],
+				[129767.441859465, 0, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[130116.279069767, 1, 0, "Extra Character Sing"],
+				[130116.279069767, 2, 0, "Extra Character Sing"],
+				[130290.697674418, 3, 261.627906976744, "Extra Character Sing"],
+				[130639.534883721, 1, 0, "Extra Character Sing"],
+				[130813.953488372, 0, 0, "Extra Character Sing"],
+				[130813.953488372, 2, 0, "Extra Character Sing"],
+				[130988.372093023, 3, 0, "No Animation"],
+				[131031.976744186, 2, 0, "No Animation"],
+				[131075.581395349, 0, 0, "No Animation"],
+				[131119.186046511, 1, 0, "No Animation"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[131162.790697674, 3, 0, "GF Sing"],
+				[131250, 2, 0, "GF Sing"],
+				[131337.209302325, 3, 0, "GF Sing"],
+				[131424.418604651, 2, 0, "GF Sing"],
+				[131511.627906977, 0, 0, "GF Sing"],
+				[131511.627906977, 1, 0, "GF Sing"],
+				[131686.046511628, 2, 0, "GF Sing"],
+				[131773.255813953, 3, 0, "GF Sing"],
+				[131860.465116279, 1, 0, "GF Sing"],
+				[131947.674418604, 2, 0, "GF Sing"],
+				[132034.88372093, 0, 0, "GF Sing"],
+				[132209.302325581, 2, 0, "GF Sing"],
+				[132209.302325581, 3, 0, "GF Sing"],
+				[132296.511627907, 0, 0, "GF Sing"],
+				[132383.720930232, 2, 0, "GF Sing"],
+				[132470.930232558, 0, 0, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[132558.139534884, 1, 0, "GF Sing"],
+				[132558.139534884, 3, 0, "GF Sing"],
+				[132732.558139535, 0, 0, "GF Sing"],
+				[132819.76744186, 2, 0, "GF Sing"],
+				[132906.976744186, 0, 0, "GF Sing"],
+				[132994.186046511, 2, 0, "GF Sing"],
+				[133081.395348837, 3, 0, "GF Sing"],
+				[133255.813953488, 1, 0, "GF Sing"],
+				[133343.023255814, 2, 0, "GF Sing"],
+				[133430.232558139, 1, 0, "GF Sing"],
+				[133517.441860465, 3, 0, "GF Sing"],
+				[133561.046511628, 2, 0, "GF Sing"],
+				[133604.651162791, 0, 0, "GF Sing"],
+				[133779.069767442, 1, 0, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[133953.488372093, 3, 0, "GF Sing"],
+				[133953.488372093, 4, 218.023255813954, "Extra Character Sing"],
+				[134302.325581395, 7, 0, "Extra Character Sing"],
+				[134476.744186046, 6, 0, "Extra Character Sing"],
+				[134651.162790698, 5, 0, "Extra Character Sing"],
+				[134825.581395349, 6, 0, "Extra Character Sing"],
+				[135000, 5, 0, "Extra Character Sing"],
+				[135000, 7, 0, "Extra Character Sing"],
+				[135174.418604651, 6, 0, "Extra Character Sing"],
+				[135348.837208302, 4, 218.023255813954, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[135697.674418605, 5, 0, "Extra Character Sing"],
+				[135697.674418605, 6, 0, "Extra Character Sing"],
+				[135872.093023256, 7, 0, "Extra Character Sing"],
+				[136046.511627907, 4, 0, "Extra Character Sing"],
+				[136220.930232558, 7, 0, "Extra Character Sing"],
+				[136395.348837209, 4, 0, "Extra Character Sing"],
+				[136395.348837209, 5, 0, "Extra Character Sing"],
+				[136569.76744186, 7, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[136744.186046512, 0, 0, "Extra Character Sing"],
+				[136744.186046512, 2, 1656.97674418605, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[138488.372093023, 1, 0, "Extra Character Sing"],
+				[138488.372093023, 3, 0, "Extra Character Sing"],
+				[138662.790697674, 0, 0, "Extra Character Sing"],
+				[138837.209302325, 2, 0, "Extra Character Sing"],
+				[139011.627906977, 1, 0, "Extra Character Sing"],
+				[139186.046511628, 2, 0, "Extra Character Sing"],
+				[139186.046511628, 3, 0, "Extra Character Sing"],
+				[139360.465116279, 1, 0, "Extra Character Sing"],
+				[139534.88371993, 0, 0, "Extra Character Sing"],
+				[139534.88371993, 2, 1656.97674418605, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[141279.069767442, 1, 0, "Extra Character Sing"],
+				[141279.069767442, 3, 0, "Extra Character Sing"],
+				[141453.488372093, 2, 0, "Extra Character Sing"],
+				[141627.906976744, 0, 0, "Extra Character Sing"],
+				[141627.906976744, 1, 0, "Extra Character Sing"],
+				[141802.325581395, 2, 0, "Extra Character Sing"],
+				[141976.744186046, 1, 0, "Extra Character Sing"],
+				[141976.744186046, 3, 0, "Extra Character Sing"],
+				[142151.162790698, 2, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[142325.581395349, 0, 261.627906976744, "GF Sing"],
+				[142674.418604651, 1, 0, "GF Sing"],
+				[142674.418604651, 3, 436.046511627907, "GF Sing"],
+				[143197.674418605, 2, 0, "GF Sing"],
+				[143284.88372093, 3, 0, "GF Sing"],
+				[143372.093023256, 0, 261.627906976744, "GF Sing"],
+				[143372.093023256, 1, 0, "GF Sing"],
+				[143720.930231558, 2, 261.627906976744, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[144069.76744186, 0, 261.627906976744, "GF Sing"],
+				[144069.76744186, 1, 0, "GF Sing"],
+				[144418.604651163, 3, 261.627906976744, "GF Sing"],
+				[144767.441860465, 0, 261.627906976744, "GF Sing"],
+				[144767.441860465, 1, 0, "GF Sing"],
+				[145116.279068767, 2, 261.627906976744, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[145465.11627907, 0, 261.627906976744, "GF Sing"],
+				[145465.11627907, 1, 0, "GF Sing"],
+				[145813.953488372, 2, 0, "GF Sing"],
+				[145988.372093023, 0, 0, "GF Sing"],
+				[146075.581395349, 2, 0, "GF Sing"],
+				[146162.790697674, 1, 0, "GF Sing"],
+				[146162.790697674, 3, 0, "GF Sing"],
+				[146337.209302326, 2, 0, "GF Sing"],
+				[146424.418604651, 3, 0, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[146511.627906977, 0, 0, "GF Sing"],
+				[146686.046511628, 1, 0, "GF Sing"],
+				[146860.465116279, 2, 0, "GF Sing"],
+				[146860.465116279, 3, 0, "GF Sing"],
+				[147034.88372093, 1, 0, "GF Sing"],
+				[147209.302325581, 0, 0, "GF Sing"],
+				[147383.720930233, 1, 0, "GF Sing"],
+				[147558.139534884, 0, 0, "GF Sing"],
+				[147558.139534884, 2, 0, "GF Sing"],
+				[147732.558139535, 3, 0, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[147906.976744186, 1, 0, "GF Sing"],
+				[148081.395348837, 4, 0, "Extra Character Sing"],
+				[148604.651162791, 5, 436.046511627907, "Extra Character Sing"],
+				[149127.906976744, 4, 0, "Extra Character Sing"],
+				[149302.325580395, 7, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[149476.744186047, 6, 436.046511627907, "Extra Character Sing"],
+				[150000, 4, 261.627906976744, "Extra Character Sing"],
+				[150348.837209302, 6, 261.627906976744, "Extra Character Sing"],
+				[150523.255813953, 5, 87.2093023255814, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[150697.674418605, 7, 436.046511627907, "Extra Character Sing"],
+				[151220.930232558, 5, 436.046511627907, "Extra Character Sing"],
+				[151744.186046512, 4, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[152093.023255814, 6, 261.627906976744, "Extra Character Sing"],
+				[152441.860465116, 5, 261.627906976744, "Extra Character Sing"],
+				[152790.697674419, 7, 261.627906976744, "Extra Character Sing"],
+				[152790.697674419, 2, 0, "Extra Character Sing"],
+				[153139.534883721, 4, 261.627906976744, "Extra Character Sing"],
+				[153139.534883721, 3, 0, "Extra Character Sing"],
+				[153488.372092023, 0, 87.2093023255814, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[153662.790697674, 1, 87.2093023255814, "Extra Character Sing"],
+				[153837.209302326, 0, 261.627906976744, "Extra Character Sing"],
+				[154186.046511628, 3, 610.46511627907, "Extra Character Sing"],
+				[154534.88372093, 1, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[154883.720930233, 0, 87.2093023255814, "GF Sing"],
+				[155058.139534884, 1, 87.2093023255814, "GF Sing"],
+				[155232.558139535, 0, 261.627906976744, "GF Sing"],
+				[155581.395348837, 2, 610.46511627907, "GF Sing"],
+				[155930.23255814, 3, 261.627906976744, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[156279.069767442, 0, 261.627906976744, "GF Sing"],
+				[156627.906976744, 2, 261.627906976744, "GF Sing"],
+				[156976.744186047, 0, 261.627906976744, "GF Sing"],
+				[157325.581395349, 2, 261.627906976744, "GF Sing"],
+				[157674.418603651, 0, 1308.13953488372, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[158372.093023256, 3, 610.46511627907, "GF Sing"],
+				[158546.511627907, 5, 436.046511627907, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[159069.767441861, 6, 436.046511627907, "Extra Character Sing"],
+				[159593.023255814, 5, 436.046511627907, "Extra Character Sing"],
+				[160116.279069767, 4, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[160465.11627907, 7, 261.627906976744, "Extra Character Sing"],
+				[160813.953488372, 4, 0, "Extra Character Sing"],
+				[160813.953488372, 0, 0, "Duo Character Sing"],
+				[160988.372093023, 6, 261.627906976744, "Extra Character Sing"],
+				[160988.372093023, 3, 261.627906976744, "Duo Character Sing"],
+				[161337.209302326, 7, 0, "Extra Character Sing"],
+				[161337.209302326, 0, 0, "Duo Character Sing"],
+				[161511.627906977, 5, 0, "Extra Character Sing"],
+				[161511.627906977, 3, 261.627906976744, "Duo Character Sing"],
+				[161686.046511628, 7, 1482.55813953488, "Extra Character Sing"],
+				[161860.465115279, 0, 0, "Duo Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[162034.88372093, 2, 261.627906976744, "Duo Character Sing"],
+				[162383.720930233, 1, 784.883720930233, "Duo Character Sing"],
+				[162906.976744186, 3, 261.627906976744, "Duo Character Sing"],
+				[163255.813952488, 5, 610.46511627907, "Extra Character Sing"],
+				[163255.813952488, 0, 610.46511627907, "Duo Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[163953.488372093, 6, 610.46511627907, "Extra Character Sing"],
+				[163953.488372093, 2, 610.46511627907, "Duo Character Sing"],
+				[164302.325581395, 3, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[164651.162790698, 0, 261.627906976744, "Extra Character Sing"],
+				[165000, 1, 261.627906976744, "Extra Character Sing"],
+				[165348.837209302, 3, 0, "Extra Character Sing"],
+				[165523.255813954, 1, 0, "Extra Character Sing"],
+				[165610.465116279, 3, 0, "Extra Character Sing"],
+				[165697.674418605, 2, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[166046.511627907, 1, 0, "Extra Character Sing"],
+				[166220.930232558, 0, 261.627906976744, "Extra Character Sing"],
+				[166569.767441861, 3, 261.627906976744, "Extra Character Sing"],
+				[166918.604651163, 1, 261.627906976744, "Extra Character Sing"],
+				[167267.441860465, 3, 1482.55813953488, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[168837.209302326, 2, 1308.13953488372, "Extra Character Sing"],
+				[169709.302325582, 5, 436.046511627907, "Extra Character Sing"],
+				[169709.302325582, 1, 436.046511627907, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[170232.558139535, 4, 261.627906976744, "Extra Character Sing"],
+				[170232.558139535, 0, 261.627906976744, "Duet"],
+				[170581.395348837, 7, 0, "Extra Character Sing"],
+				[170581.395348837, 3, 0, "Duet"],
+				[170755.813953489, 6, 261.627906976744, "Extra Character Sing"],
+				[170755.813953489, 2, 261.627906976744, "Duet"],
+				[171104.651162791, 7, 0, "Extra Character Sing"],
+				[171104.651162791, 3, 0, "Duet"],
+				[171279.069767442, 5, 0, "Extra Character Sing"],
+				[171279.069767442, 1, 0, "Duet"],
+				[171453.488372093, 6, 0, "Extra Character Sing"],
+				[171453.488372093, 2, 0, "Duet"],
+				[171627.906975744, 4, 261.627906976744, "Extra Character Sing"],
+				[171627.906975744, 0, 261.627906976744, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[171976.744186047, 6, 0, "Extra Character Sing"],
+				[171976.744186047, 2, 0, "Duet"],
+				[172151.162790698, 5, 261.627906976744, "Extra Character Sing"],
+				[172151.162790698, 1, 261.627906976744, "Duet"],
+				[172500, 7, 0, "Extra Character Sing"],
+				[172500, 3, 0, "Duet"],
+				[172674.418604651, 6, 0, "Extra Character Sing"],
+				[172674.418604651, 2, 0, "Duet"],
+				[172848.837209302, 4, 0, "Extra Character Sing"],
+				[172848.837209302, 0, 0, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[173023.255813954, 5, 436.046511627907, "Extra Character Sing"],
+				[173023.255813954, 1, 436.046511627907, "Duet"],
+				[173546.511627907, 6, 436.046511627907, "Extra Character Sing"],
+				[173546.511627907, 2, 436.046511627907, "Duet"],
+				[174069.767441861, 7, 261.627906976744, "Extra Character Sing"],
+				[174069.767441861, 3, 261.627906976744, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[174418.604651163, 5, 610.46511627907, "Extra Character Sing"],
+				[174418.604651163, 1, 610.46511627907, "Duet"],
+				[175116.279069768, 4, 610.46511627907, "Extra Character Sing"],
+				[175116.279069768, 0, 2005.81395348837, "Duet"],
+				[175813.953487372, 7, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[176162.790697675, 5, 0, "Extra Character Sing"],
+				[176337.209302326, 6, 436.046511627907, "Extra Character Sing"],
+				[176860.465116279, 7, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[177209.302325582, 5, 436.046511627907, "Extra Character Sing"],
+				[177209.302325582, 1, 436.046511627907, "Duet"],
+				[177732.558139535, 4, 261.627906976744, "Extra Character Sing"],
+				[177732.558139535, 0, 261.627906976744, "Duet"],
+				[178081.395348837, 6, 0, "Extra Character Sing"],
+				[178081.395348837, 2, 0, "Duet"],
+				[178255.813953489, 5, 0, "Extra Character Sing"],
+				[178255.813953489, 1, 0, "Duet"],
+				[178430.23255814, 7, 1482.55813953488, "Extra Character Sing"],
+				[178430.23255814, 3, 1482.55813953488, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[180000, 4, 784.883720930233, "Extra Character Sing"],
+				[180000, 0, 784.883720930233, "Duet"],
+				[180872.093023256, 5, 436.046511627907, "Extra Character Sing"],
+				[180872.093023256, 1, 436.046511627907, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[181395.34883721, 7, 261.627906976744, "Extra Character Sing"],
+				[181395.34883721, 3, 261.627906976744, "Duet"],
+				[181744.186046512, 5, 0, "Extra Character Sing"],
+				[181744.186046512, 1, 0, "Duet"],
+				[181918.604651163, 6, 261.627906976744, "Extra Character Sing"],
+				[181918.604651163, 2, 261.627906976744, "Duet"],
+				[182267.441860465, 7, 0, "Extra Character Sing"],
+				[182267.441860465, 3, 0, "Duet"],
+				[182441.860465116, 4, 0, "Extra Character Sing"],
+				[182441.860465116, 0, 0, "Duet"],
+				[182616.279069768, 5, 0, "Extra Character Sing"],
+				[182616.279069768, 1, 0, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[182790.697674419, 7, 261.627906976744, "Extra Character Sing"],
+				[182790.697674419, 3, 261.627906976744, "Duet"],
+				[183139.534883721, 6, 0, "Extra Character Sing"],
+				[183139.534883721, 2, 0, "Duet"],
+				[183313.953488372, 5, 261.627906976744, "Extra Character Sing"],
+				[183313.953488372, 1, 261.627906976744, "Duet"],
+				[183662.790697675, 4, 0, "Extra Character Sing"],
+				[183662.790697675, 0, 0, "Duet"],
+				[183837.209302326, 6, 0, "Extra Character Sing"],
+				[183837.209302326, 2, 0, "Duet"],
+				[184011.627906977, 7, 0, "Extra Character Sing"],
+				[184011.627906977, 3, 0, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[184186.046511628, 5, 610.46511627907, "Extra Character Sing"],
+				[184186.046511628, 1, 610.46511627907, "Duet"],
+				[184883.720930233, 6, 610.46511627907, "Extra Character Sing"],
+				[184883.720930233, 2, 610.46511627907, "Duet"],
+				[185581.395347837, 4, 610.46511627907, "Extra Character Sing"],
+				[185581.395347837, 0, 610.46511627907, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[186279.069767442, 7, 610.46511627907, "Extra Character Sing"],
+				[186279.069767442, 3, 610.46511627907, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[186976.744186047, 6, 0, "Extra Character Sing"],
+				[186976.744186047, 2, 0, "Duet"],
+				[187151.162790698, 7, 0, "Extra Character Sing"],
+				[187151.162790698, 3, 0, "Duet"],
+				[187325.581395349, 5, 0, "Extra Character Sing"],
+				[187325.581395349, 1, 0, "Duet"],
+				[187500, 7, 0, "Extra Character Sing"],
+				[187500, 3, 0, "Duet"],
+				[187674.418604651, 4, 0, "Extra Character Sing"],
+				[187674.418604651, 0, 0, "Duet"],
+				[187848.837209303, 7, 0, "Extra Character Sing"],
+				[187848.837209303, 3, 0, "Duet"],
+				[188023.255813954, 4, 0, "Extra Character Sing"],
+				[188023.255813954, 0, 0, "Duet"],
+				[188197.674418605, 5, 0, "Extra Character Sing"],
+				[188197.674418605, 1, 0, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[188372.093023256, 7, 0, "Extra Character Sing"],
+				[188372.093023256, 3, 0, "Duet"],
+				[188546.511627907, 6, 0, "Extra Character Sing"],
+				[188546.511627907, 2, 0, "Duet"],
+				[188720.930232558, 7, 0, "Extra Character Sing"],
+				[188720.930232558, 3, 0, "Duet"],
+				[188895.34883721, 5, 0, "Extra Character Sing"],
+				[188895.34883721, 1, 0, "Duet"],
+				[189069.767441861, 6, 0, "Extra Character Sing"],
+				[189069.767441861, 2, 0, "Duet"],
+				[189244.186046512, 4, 0, "Extra Character Sing"],
+				[189244.186046512, 0, 0, "Duet"],
+				[189418.604651163, 6, 0, "Extra Character Sing"],
+				[189418.604651163, 2, 0, "Duet"],
+				[189593.023255814, 7, 0, "Extra Character Sing"],
+				[189593.023255814, 3, 0, "Duet"],
+				[189767.441859465, 4, 1308.13953488372, "Extra Character Sing"],
+				[189767.441859465, 0, 1308.13953488372, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[191162.790697675, 6, 610.46511627907, "Extra Character Sing"],
+				[191162.790697675, 2, 610.46511627907, "Duet"],
+				[191860.465116279, 5, 610.46511627907, "Extra Character Sing"],
+				[191860.465116279, 1, 610.46511627907, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[192558.139534884, 6, 261.627906976744, "Extra Character Sing"],
+				[192558.139534884, 2, 610.46511627907, "Duet"],
+				[193255.813953489, 3, 610.46511627907, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[193953.488372093, 1, 0, "GF Sing"],
+				[194127.906976745, 0, 261.627906976744, "GF Sing"],
+				[194476.744186047, 3, 436.046511627907, "GF Sing"],
+				[195000, 1, 1656.97674418605, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[195348.837209303, 4, 261.627906976744, "Extra Character Sing"],
+				[195697.674418605, 5, 261.627906976744, "Extra Character Sing"],
+				[196046.511627907, 6, 261.627906976744, "Extra Character Sing"],
+				[196395.34883721, 5, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[196744.186046512, 7, 261.627906976744, "Extra Character Sing"],
+				[196744.186046512, 2, 1308.13953488372, "GF Sing"],
+				[197093.023255814, 5, 261.627906976744, "Extra Character Sing"],
+				[197441.860465117, 4, 261.627906976744, "Extra Character Sing"],
+				[197790.697674419, 5, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[198139.534883721, 1, 610.46511627907],
+				[198837.209302326, 0, 610.46511627907]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[199534.883720931, 2, 0],
+				[199709.302325582, 3, 261.627906976744],
+				[200058.139534884, 0, 436.046511627907],
+				[200581.395348838, 2, 1656.97674418605]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[200930.23255814, 6, 261.627906976744, "Extra Character Sing"],
+				[201279.069767442, 5, 0, "Extra Character Sing"],
+				[201453.488372093, 7, 436.046511627907, "Extra Character Sing"],
+				[201976.744186047, 5, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[202325.581395349, 4, 0, "Extra Character Sing"],
+				[202325.581395349, 1, 1308.13953488372],
+				[202500, 6, 0, "Extra Character Sing"],
+				[202674.418604652, 7, 0, "Extra Character Sing"],
+				[202848.837209303, 4, 0, "Extra Character Sing"],
+				[203023.255813954, 5, 0, "Extra Character Sing"],
+				[203197.674418605, 6, 0, "Extra Character Sing"],
+				[203372.093023256, 7, 0, "Extra Character Sing"],
+				[203546.511627907, 4, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[203720.930232559, 3, 0, "Extra Character Sing"],
+				[203895.34883721, 1, 0, "Extra Character Sing"],
+				[204244.186046512, 2, 0, "Extra Character Sing"],
+				[204418.604651163, 1, 0, "Extra Character Sing"],
+				[204767.441860465, 2, 0, "Extra Character Sing"],
+				[204941.860465117, 3, 0, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[205116.279069768, 0, 610.46511627907, "Extra Character Sing"],
+				[205465.11627907, 2, 261.627906976744, "Extra Character Sing"],
+				[205813.953488372, 3, 610.46511627907, "Extra Character Sing"],
+				[206162.790697675, 1, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[206511.627906977, 6, 261.627906976744, "Extra Character Sing"],
+				[206511.627906977, 2, 261.627906976744, "Duet"],
+				[206860.465116279, 4, 261.627906976744, "Extra Character Sing"],
+				[206860.465116279, 0, 261.627906976744, "Duet"],
+				[207209.302325582, 7, 261.627906976744, "Extra Character Sing"],
+				[207209.302325582, 3, 261.627906976744, "Duet"],
+				[207558.139534884, 4, 261.627906976744, "Extra Character Sing"],
+				[207558.139534884, 0, 261.627906976744, "Duet"],
+				[207906.976743186, 5, 261.627906976744, "Extra Character Sing"],
+				[207906.976743186, 1, 261.627906976744, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[208255.813953489, 6, 261.627906976744, "Extra Character Sing"],
+				[208255.813953489, 2, 261.627906976744, "Duet"],
+				[208604.651162791, 5, 261.627906976744, "Extra Character Sing"],
+				[208604.651162791, 1, 261.627906976744, "Duet"],
+				[208953.488372093, 7, 261.627906976744, "Extra Character Sing"],
+				[208953.488372093, 3, 261.627906976744, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[209302.325581396, 0, 436.046511627907, "Extra Character Sing"],
+				[209825.581395349, 3, 436.046511627907, "Extra Character Sing"],
+				[210348.837209303, 1, 610.46511627907, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[211046.511627907, 2, 959.302325581396, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[212093.023255814, 4, 261.627906976744, "Extra Character Sing"],
+				[212093.023255814, 0, 261.627906976744, "Duet"],
+				[212441.860465117, 6, 0, "Extra Character Sing"],
+				[212441.860465117, 2, 0, "Duet"],
+				[212616.279069768, 7, 436.046511627907, "Extra Character Sing"],
+				[212616.279069768, 3, 436.046511627907, "Duet"],
+				[213139.534883721, 6, 261.627906976744, "Extra Character Sing"],
+				[213139.534883721, 2, 261.627906976744, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[213488.372093024, 5, 0, "Extra Character Sing"],
+				[213488.372093024, 1, 0, "Duet"],
+				[213662.790697675, 4, 0, "Extra Character Sing"],
+				[213662.790697675, 0, 0, "Duet"],
+				[213837.209302326, 6, 0, "Extra Character Sing"],
+				[213837.209302326, 2, 0, "Duet"],
+				[214011.627906977, 5, 0, "Extra Character Sing"],
+				[214011.627906977, 1, 0, "Duet"],
+				[214186.046511628, 7, 610.46511627907, "Extra Character Sing"],
+				[214186.046511628, 3, 610.46511627907, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[214883.720930233, 6, 1308.13953488372, "Extra Character Sing"],
+				[214883.720930233, 2, 1308.13953488372, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[216279.069767442, 4, 610.46511627907, "Extra Character Sing"],
+				[216976.744186047, 6, 610.46511627907, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[217674.418604652, 5, 2659.88372093023, "Extra Character Sing"],
+				[218372.093023256, 7, 1918.60465116279, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[219767.441860466, 0, 610.46511627907, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[220465.11627907, 1, 959.302325581396, "Extra Character Sing"],
+				[221511.627906977, 3, 2921.51162790698, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[224651.162790698, 0, 610.46511627907, "Extra Character Sing"],
+				[225348.837209303, 1, 610.46511627907, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[226046.511627908, 0, 610.46511627907, "GF Sing"],
+				[226744.186046512, 2, 610.46511627907, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[227790.697674419, 7, 261.627906976744, "Extra Character Sing"],
+				[228139.534883721, 5, 261.627906976744, "Extra Character Sing"],
+				[228139.534883721, 3, 1308.13953488372, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[228837.209302326, 5, 610.46511627907, "Extra Character Sing"],
+				[228837.209302326, 1, 610.46511627907, "GF Sing"],
+				[229186.046511628, 6, 261.627906976744, "Extra Character Sing"],
+				[229534.883720931, 2, 1308.13953488372, "GF Sing"],
+				[229883.720930233, 4, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[230232.558139535, 7, 261.627906976744, "Extra Character Sing"],
+				[230930.23255814, 5, 261.627906976744, "Extra Character Sing"],
+				[230930.23255814, 0, 610.46511627907, "GF Sing"],
+				[231279.069767442, 4, 1308.13953488372, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[231627.906976745, 1, 1308.13953488372, "GF Sing"],
+				[232325.581395349, 7, 261.627906976744, "Extra Character Sing"],
+				[232325.581395349, 3, 610.46511627907, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[233023.255813954, 5, 261.627906976744, "Extra Character Sing"],
+				[233372.093023256, 6, 261.627906976744, "Extra Character Sing"],
+				[233720.930232559, 5, 261.627906976744, "Extra Character Sing"],
+				[233720.930232559, 2, 610.46511627907, "GF Sing"],
+				[234069.767441861, 4, 261.627906976744, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[234418.604651163, 1, 1308.13953488372, "GF Sing"],
+				[235116.279069768, 7, 610.46511627907, "Extra Character Sing"],
+				[235116.279069768, 3, 610.46511627907, "GF Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"gfSection": true,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[235813.953488373, 5, 610.46511627907, "Extra Character Sing"],
+				[236511.627906977, 4, 2005.81395348837, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[237209.302325582, 0, 1308.13953488372, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[238604.651162791, 6, 1308.13953488372, "Extra Character Sing"],
+				[238604.651162791, 2, 1308.13953488372, "Duet"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[240000.000000001, 5, 2747.09302325581, "Extra Character Sing"]
+			],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"lengthInSteps": 16,
+			"altAnim": false,
+			"mustHitSection": false,
+			"changeBPM": false,
+			"bpm": 172
+		}
+	],
+	"player2": "Alex",
+	"gfVersion": "Tiro",
+	"events": [
+		[
+			128284.88372093,
+			[
+				["Flash Camera", "0.8", ""],
+				["Change Character", "bf", "starjump"]
+			]
+		],
+		[
+			130988.372093023,
+			[
+				["Change Character", "gf", "Oof"],
+				["Flash Camera", "0.8", ""]
+			]
+		],
+		[
+			147994.186046512,
+			[
+				["Change Character", "bf", "hans-meow"],
+				["Change Character", "gf", "Tiro"],
+				["Flash Camera", "0.8", ""]
+			]
+		]
+	],
+	"song": "fubuki",
+	"validScore": true,
+	"needsVoices": true,
+	"stage": "city",
+	"format": "psych_v1_convert",
+	"bpm": 172,
+	"speed": 3
+}

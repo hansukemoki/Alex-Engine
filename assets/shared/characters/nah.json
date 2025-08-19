@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"offsets": [-223, -141],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Alex-DEMO",
+	"position": [9000, 70],
+	"healthicon": "selene",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [-9000, -70],
+	"sing_duration": 6.1,
+	"scale": 3.8,
+	"_editor_isPlayer": false
+}

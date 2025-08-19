@@ -1,0 +1,90 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "alex",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"supernova",
+			"bf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"stargazer",
+			"bf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"fubuki",
+			"bf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Burning-in-hell",
+			"bf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Technicolor-Tussle",
+			"bf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"12AM",
+			"bf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Dont-Worry",
+			"bf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"rejoice",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
