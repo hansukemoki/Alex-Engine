@@ -70,7 +70,7 @@ class FreeplayState extends MusicBeatState
 		{
 			FlxTransitionableState.skipNextTransIn = true;
 			persistentUpdate = false;
-			MusicBeatState.switchState(new states.ErrorState("NO WEEKS ADDED FOR FREEPLAY\n\nPress ACCEPT to go to the Week Editor Menu.\nPress BACK to return to Main Menu.",
+			MusicBeatState.switchState(new states.ErrorState("KHÔNG CÓ WEEK NÀO TRONG FREEPLAY\n\nBẤM ENTER ĐỂ VÀO Week Editor Menu.\nBẤM BACKSPACE ĐỂ VỀ Main Menu.",
 				function() MusicBeatState.switchState(new states.editors.WeekEditorState()),
 				function() MusicBeatState.switchState(new states.MainMenuState())));
 			return;
@@ -175,7 +175,7 @@ class FreeplayState extends MusicBeatState
 		bottomBG.alpha = 0.6;
 		add(bottomBG);
 
-		var leText:String = Language.getPhrase("freeplay_tip", "Press SPACE to listen to the Song / Press CTRL to open the Gameplay Changers Menu / Press RESET to Reset your Score and Accuracy.");
+		var leText:String = Language.getPhrase("freeplay_tip", "ẤN NÚT CÁCH ĐỂ NGHE THỬ NHẠC / ẤN CTRL ĐỂ MỞ MENU CHỈNH LỐI CHƠI / ẤN R ĐỂ XÓA ĐIỂM VÀ ĐỘ CHÍNH XÁC.");
 		bottomString = leText;
 		var size:Int = 16;
 		bottomText = new FlxText(bottomBG.x, bottomBG.y + 4, FlxG.width, leText, size);
@@ -243,7 +243,7 @@ class FreeplayState extends MusicBeatState
 
 		if (!player.playingMusic)
 		{
-			scoreText.text = Language.getPhrase('personal_best', 'PERSONAL BEST: {1} ({2}%)', [lerpScore, ratingSplit.join('.')]);
+			scoreText.text = Language.getPhrase('personal_best', 'ĐIỂM CAO NHẤT: {1} ({2}%)', [lerpScore, ratingSplit.join('.')]);
 			positionHighscore();
 			
 			if(songs.length > 1)
